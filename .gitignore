@@ -3,3 +3,6 @@
 
 # node_module for mongodb
 node_modules
+
+# .txt files
+url.txt
