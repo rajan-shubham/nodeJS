@@ -1,2 +1,5 @@
 # mac file manager
 .DS_Store
+
+# node_module for mongodb
+node_modules
